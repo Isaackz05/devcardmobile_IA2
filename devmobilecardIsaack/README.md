@@ -56,9 +56,9 @@ Exibe o cartão de visita estilizado com:
 - Nome, cargo e empresa
 - Tecnologia favorita em destaque
 - Badge de nível por anos de experiência:
-  - 0–2 anos → **Júnior**
-  - 3–5 anos → **Pleno**
-  - 6+ anos → **Sênior**
+  - 0–2 anos -> **Júnior**
+  - 3–5 anos -> **Pleno**
+  - 6+ anos -> **Sênior**
 
 ### Tela 4 — Sucesso (`sucesso.tsx`)
 
